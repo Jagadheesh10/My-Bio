@@ -49,7 +49,7 @@ function Projects() {
               isBlog={false}
               title="My Portfolio"
               description="This web page is done entirely with react.js, This web page is about My self like what i have done during my graduation and what the skills i have developed my self and about my education background and the projects i have done and what the tools i have used to build projects and coding related things"
-              ghLink="https://github.com/Jagadheesh10/Portfolio"
+              ghLink="https://github.com/Jagadheesh10/My-Bio"
               demoLink=""              
             />
           </Col>
